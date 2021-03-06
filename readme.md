@@ -16,8 +16,6 @@ _A list of learning resources for programming languages I'm learning / that i wa
 
 - [Traversy Media Sass Crash Course YT](https://i.ytimg.com/an_webp/nu5mdN2JIwM/mqdefault_6s.webp?du=3000&sqp=CLyWi4IG&rs=AOn4CLDQc1RldasEU9eLlLmXaUtuL5IiRg)
 
----
-
 - [Udemy Course On CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
 > CSS Frameworks
@@ -41,8 +39,6 @@ _A list of learning resources for programming languages I'm learning / that i wa
 
 - [Javascript Calculator App YT](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 
----
-
 - [Javasciprt Udemy Course](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
 > React JS
@@ -54,8 +50,6 @@ _A list of learning resources for programming languages I'm learning / that i wa
 - [React Chat App (Microsoft Teams Clone)](https://i.ytimg.com/an_webp/jcOKU9f86XE/mqdefault_6s.webp?du=3000&sqp=CJK4i4IG&rs=AOn4CLCHNIFP7x0I-wlcFJgdW3SNCPAJuQ)
 
 - [ReactJS Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU)
-
----
 
 - [React With Redux UDemy Course](https://www.udemy.com/course/react-redux/)
 
@@ -69,8 +63,6 @@ _A list of learning resources for programming languages I'm learning / that i wa
 
 - [Vue Income Tracker](https://www.youtube.com/watch?v=AjV7k7t78Ik)
 
----
-
 - [VueJS Udemy Course](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 > Angular
@@ -79,15 +71,11 @@ _A list of learning resources for programming languages I'm learning / that i wa
 
 - [Angular Compnents Beginners Guide](https://www.youtube.com/watch?v=23o0evRtrFI)
 
----
-
 - [Angular Udemy Course](https://www.udemy.com/course/angular-4-front-to-back/)
 
 > Golang
 
-[Tech With Tim Golang Course YT](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
-
----
+- [Tech With Tim Golang Course YT](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
 
 - [Golang Udemy Course](https://www.udemy.com/course/go-the-complete-developers-guide/)
 
