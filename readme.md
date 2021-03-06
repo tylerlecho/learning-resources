@@ -79,4 +79,4 @@ _A list of learning resources for programming languages I'm learning / that i wa
 
 - [Golang Udemy Course](https://www.udemy.com/course/go-the-complete-developers-guide/)
 
-![To Be Continued](https://i.imgur.com/vRcjU0l.png)
+![To Be Continued](https://s3.amazonaws.com/files.d20.io/images/7293115/DOpbPrOZfRmqLeQqTfySNw/med.png?1421991986)
